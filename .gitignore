@@ -56,3 +56,5 @@ Thumbs.db
 
 # Confidential Data
 TwiBot-22/ 
+# Local Netlify folder
+.netlify
